@@ -1,0 +1,12 @@
+#covid_19                  1465
+#coronavirus               1243
+food                       1007
+grocery                     803
+store                       769
+                           ... 
+@mountaindew                  1
+#apocalypsparty               1
+aster                         1
+rs.198.                       1
+https://t.co/xyvbnsfexa       1
+Length: 20390, dtype: int64
